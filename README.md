@@ -99,7 +99,7 @@ sudo nmap -sV -T4 192.168.1.x
 |------------|------------------|------------------------|--------------------------|
 | ![](assets/20250411_155925.jpg) | ![](assets/20250411_155931.jpg) | ![](assets/20250411_155937.jpg) | ![](assets/20250411_155950.jpg) |
 
-[Watch the demo video (MP4)](assets/demo.mp4)
+[Watch the demo video (MP4)](https://youtu.be/mx0S6QVGlXw)
 
 
 ---
