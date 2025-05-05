@@ -6,7 +6,7 @@ This project simulates a basic SIEM (Security Information and Event Management) 
 
 ---
 
-## Features
+## 🔍 Features
 - Real-time traffic monitoring from multiple VMs
 - Protocol breakdown (TCP/UDP), port range analysis, and TCP flag inspection
 - Live brushing, filtering, and packet drill-down (source IP, flags, destination)

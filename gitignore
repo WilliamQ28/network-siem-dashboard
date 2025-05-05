@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+*.log
+
+# Node.js / Observable
+node_modules/
+*.tgz
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Backup and temp files
+*.bak
+*.tmp

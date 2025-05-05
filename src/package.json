@@ -1,0 +1,14 @@
+{
+  "name": "56ba25a95f74523d",
+  "main": "56ba25a95f74523d@661.js",
+  "version": "661.0.0",
+  "homepage": "https://observablehq.com/d/56ba25a95f74523d",
+  "author": {
+    "name": "qza85",
+    "url": "https://observablehq.com/@qza85"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "^5.9.9"
+  }
+}
